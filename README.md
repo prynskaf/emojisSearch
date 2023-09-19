@@ -1,8 +1,10 @@
-# React + Vite
+# Emoji Search Icons
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Emoji Search Icons is a React app that allows users to search for emoji icons by typing in the input bar. The app provides a filter functionality to display relevant emoji icons based on the user's search query.
 
-Currently, two official plugins are available:
+![Emoji Search Icons](https://github.com/prynskaf/emojisSearch/blob/main/src/assets/emojis%20pic.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- **Emoji Search**: Users can type in the input bar to search for emoji icons.
+- **Filtering**: The app filters and displays relevant emoji icons based on the user's search query.
